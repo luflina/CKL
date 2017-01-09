@@ -1,0 +1,38 @@
+body{
+    background-color: 201F1C;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+
+
+.container-full {
+    margin: 0 auto;
+    width: 100%;
+}
+h3{
+    text-transform: uppercase;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 900;
+}
+
+h2{
+    text-transform: uppercase;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+}
+section.menu{
+    padding: 28px;
+}
+
+.events div[class^='col']{
+    
+    background-size:cover;
+}
+.events .col-lg-4 {
+    
+    min-height: 209px;
+}
